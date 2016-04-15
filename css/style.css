@@ -1,5 +1,12 @@
+body {
+    background: #ff69b4;
+    color: #fff;
+}
 
-
+.card {
+    max-width: 20rem;
+    color: #000;
+}
 
 /* Extra small devices (portrait phones, less than 34em) */
 @media (max-width: 33.9em) {
